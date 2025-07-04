@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Task Manager
 
 A modern, responsive task management application built with React frontend and Node.js backend.
@@ -116,3 +117,6 @@ This project is licensed under the MIT License.
 ## Screenshots
 
 ![Task Manager Interface](TaskManger.jpg) 
+=======
+# task-manager
+>>>>>>> ce55cfa1e01478867c43e80680c4c6c35e0f6688
